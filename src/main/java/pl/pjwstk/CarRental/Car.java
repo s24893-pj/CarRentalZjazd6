@@ -14,6 +14,10 @@ public class Car {
         this.vin = vin;
     }
 
+    public Car() {
+        
+    }
+
     public String getMarka() {
         return marka;
     }
